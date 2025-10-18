@@ -19,12 +19,12 @@ fast using scalable solutions.
 ```bash
 jefersonsilva01@github
 ---------------------------------------------
-Uptime: 33 Years
+Uptime: 34 Years
 OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
 Editors: VS Code
 
-MainStak: [
+MainStack: [
   "HTML", "CSS","Javascript",
   "JQuery", "React",
   "NodeJS", "Express",
