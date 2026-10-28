@@ -19,14 +19,14 @@ fast using scalable solutions.
 ```bash
 jefersonsilva01@github
 ---------------------------------------------
-Uptime: 34 Years
+Uptime: 35 Years
 OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
-Editors: VS Code
+Editors: VS Code, Zed
 
 MainStack: [
   "HTML", "CSS","Javascript",
-  "JQuery", "React",
+  "JQuery", "React", "NextJS"
   "NodeJS", "Express",
   "JSON",
   "Bootstrap", "Bulma", "Styled Components",
@@ -42,7 +42,6 @@ HobbiesSoftware: Reading Books
 
 Contact:
 ---------------------------------------------
-Email: jeferson.s.silva1@gmail.com
 LinkedIn: jefersonsilva01
 ```
 
